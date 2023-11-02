@@ -1,8 +1,8 @@
 {
-  "name": "flappy-bird",
+  "name": "nrug-flappybirds-react",
   "version": "1.0.0",
-  "private": true,
-  "homepage": "/flappy-bird",
+  "private": false,
+  "homepage": "nrug-flappybirds-react/",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4",
